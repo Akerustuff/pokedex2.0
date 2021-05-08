@@ -1,0 +1,12 @@
+body{
+    background-color: #ef5350;
+}
+
+.header_logo{
+    width: 700px;
+}
+
+#pokedex {
+    margin-left: 50px;
+    margin-right: 50px;
+}
